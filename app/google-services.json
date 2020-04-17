@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1013439034791",
+    "firebase_url": "https://cecp-gp.firebaseio.com",
+    "project_id": "cecp-gp",
+    "storage_bucket": "cecp-gp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013439034791:android:80d42f3eb4a5315917b282",
+        "android_client_info": {
+          "package_name": "com.example.currencydetectorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013439034791-8h32bu9lvq751t7rrqtjcne4e60jqbpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVAxIytDuebNWCnz1RJoIqGvli9lyZS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013439034791-8h32bu9lvq751t7rrqtjcne4e60jqbpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
