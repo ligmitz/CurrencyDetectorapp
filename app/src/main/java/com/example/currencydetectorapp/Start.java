@@ -25,7 +25,7 @@ public class Start extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent home_intent = new Intent(Start.this,Home.class);
+                Intent home_intent = new Intent(Start.this,CameraActivity.class);
                 startActivity(home_intent);
                 finish();
             }

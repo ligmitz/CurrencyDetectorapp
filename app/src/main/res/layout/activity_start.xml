@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Start"
-    android:background="#151515"
+    android:background="#101010"
     >
 
-    <TextView
+    <com.codesgood.views.JustifiedTextView
         android:id="@+id/textView2"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -17,7 +17,7 @@
         android:layout_marginEnd="21dp"
         android:layout_marginBottom="22dp"
         android:text="Welcome to CecP, the Currency Detector Application for the visually impaired people. To detect the currency with high accuracy , place the note over a flat surface and scan it using the camera."
-        android:textSize="32dp"
+        android:textSize="33dp"
         android:fontFamily="@font/montserratregular"
         android:textColor="#fff"
         android:gravity="fill"
